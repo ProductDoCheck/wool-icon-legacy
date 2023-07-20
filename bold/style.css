@@ -1,18 +1,19 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?xaicie');
-  src:  url('fonts/icomoon.eot?xaicie#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?xaicie') format('truetype'),
-    url('fonts/icomoon.woff?xaicie') format('woff'),
-    url('fonts/icomoon.svg?xaicie#icomoon') format('svg');
+  font-family: "icomoon";
+  src: url("fonts/icomoon.eot?xaicie");
+  src: url("fonts/icomoon.eot?xaicie#iefix") format("embedded-opentype"),
+    url("fonts/icomoon.ttf?xaicie") format("truetype"),
+    url("fonts/icomoon.woff?xaicie") format("woff"),
+    url("fonts/icomoon.svg?xaicie#icomoon") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-[class^="icon-bold-"], [class*=" icon-bold-"] {
+[class^="icon-bold-"],
+[class*=" icon-bold-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: "icomoon" !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
@@ -444,110 +445,84 @@
 }
 .icon-bold-User-Block-Rounded:before {
   content: "\e98b";
-  color: #1c274c;
 }
 .icon-bold-User-Block:before {
   content: "\e98c";
-  color: #1c274c;
 }
 .icon-bold-User-Check-Rounded:before {
   content: "\e98d";
-  color: #1c274c;
 }
 .icon-bold-User-Check:before {
   content: "\e98e";
-  color: #1c274c;
 }
 .icon-bold-User-Circle:before {
   content: "\e98f";
-  color: #1c274c;
 }
 .icon-bold-User-Cross-Rounded:before {
   content: "\e990";
-  color: #1c274c;
 }
 .icon-bold-User-Cross:before {
   content: "\e991";
-  color: #1c274c;
 }
 .icon-bold-User-Hand-Up:before {
   content: "\e992";
-  color: #1c274c;
 }
 .icon-bold-User-Hands:before {
   content: "\e993";
-  color: #1c274c;
 }
 .icon-bold-User-Heart-Rounded:before {
   content: "\e994";
-  color: #1c274c;
 }
 .icon-bold-User-Heart:before {
   content: "\e995";
-  color: #1c274c;
 }
 .icon-bold-User-Id:before {
   content: "\e996";
-  color: #1c274c;
 }
 .icon-bold-User-Minus-Rounded:before {
   content: "\e997";
-  color: #1c274c;
 }
 .icon-bold-User-Minus:before {
   content: "\e998";
-  color: #1c274c;
 }
 .icon-bold-User-Plus-Rounded:before {
   content: "\e999";
-  color: #1c274c;
 }
 .icon-bold-User-Plus:before {
   content: "\e99a";
-  color: #1c274c;
 }
 .icon-bold-User-Rounded:before {
   content: "\e99b";
-  color: #1c274c;
 }
 .icon-bold-User-Speak-Rounded:before {
   content: "\e99c";
-  color: #1c274c;
 }
 .icon-bold-User-Speak:before {
   content: "\e99d";
-  color: #1c274c;
 }
 .icon-bold-User:before {
   content: "\e99e";
-  color: #1c274c;
 }
 .icon-bold-Users-Group-Rounded:before {
   content: "\e99f";
-  color: #1c274c;
 }
 .icon-bold-Users-Group-Two-Rounded:before {
   content: "\e9a0";
-  color: #1c274c;
 }
 .icon-bold-Accumulator .path1:before {
   content: "\e9a1";
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Accumulator .path2:before {
   content: "\e9a2";
   margin-left: -1em;
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Accumulator .path3:before {
   content: "\e9a3";
   margin-left: -1em;
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Accumulator .path4:before {
   content: "\e9a4";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .icon-bold-Bus:before {
   content: "\e9a5";
@@ -647,21 +622,17 @@
 }
 .icon-bold-Clock-Circle .path1:before {
   content: "\e9c5";
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Clock-Circle .path2:before {
   content: "\e9c6";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .icon-bold-Clock-Square .path1:before {
   content: "\e9c7";
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Clock-Square .path2:before {
   content: "\e9c8";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .icon-bold-History-2:before {
   content: "\e9c9";
@@ -698,153 +669,117 @@
 }
 .icon-bold-Watch-Square .path1:before {
   content: "\e9d4";
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Watch-Square .path2:before {
   content: "\e9d5";
   margin-left: -1em;
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Watch-Square .path3:before {
   content: "\e9d6";
   margin-left: -1em;
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Watch-Square .path4:before {
   content: "\e9d7";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .icon-bold-Backspace:before {
   content: "\e9d8";
-  color: #1c274c;
 }
 .icon-bold-Eraser-Circle:before {
   content: "\e9d9";
-  color: #1c274c;
 }
 .icon-bold-Eraser-Square:before {
   content: "\e9da";
-  color: #1c274c;
 }
 .icon-bold-Eraser:before {
   content: "\e9db";
-  color: #1c274c;
 }
 .icon-bold-Link-Broken-Minimalistic:before {
   content: "\e9dc";
 }
 .icon-bold-Link-Broken:before {
   content: "\e9dd";
-  color: #1c274c;
 }
 .icon-bold-Link-Circle:before {
   content: "\e9de";
-  color: #1c274c;
 }
 .icon-bold-Link-Minimalistic-2:before {
   content: "\e9df";
-  color: #1c274c;
 }
 .icon-bold-Link-Minimalistic:before {
   content: "\e9e0";
-  color: #1c274c;
 }
 .icon-bold-Link-Round-Angle:before {
   content: "\e9e1";
-  color: #1c274c;
 }
 .icon-bold-Link-Round:before {
   content: "\e9e2";
-  color: #1c274c;
 }
 .icon-bold-Link-Square:before {
   content: "\e9e3";
-  color: #1c274c;
 }
 .icon-bold-Link:before {
   content: "\e9e4";
-  color: #1c274c;
 }
 .icon-bold-Paragraph-Spacing:before {
   content: "\e9e5";
-  color: #1c274c;
 }
 .icon-bold-Text-Bold-Circle:before {
   content: "\e9e6";
-  color: #1c274c;
 }
 .icon-bold-Text-Bold-Square:before {
   content: "\e9e7";
-  color: #1c274c;
 }
 .icon-bold-Text-Bold:before {
   content: "\e9e8";
-  color: #1c274c;
 }
 .icon-bold-Text-Circle:before {
   content: "\e9e9";
-  color: #1c274c;
 }
 .icon-bold-Text-Cross-Circle:before {
   content: "\e9ea";
-  color: #1c274c;
 }
 .icon-bold-Text-Cross-Square:before {
   content: "\e9eb";
-  color: #1c274c;
 }
 .icon-bold-Text-Cross:before {
   content: "\e9ec";
-  color: #1c274c;
 }
 .icon-bold-Text-Field-Focus:before {
   content: "\e9ed";
-  color: #1c274c;
 }
 .icon-bold-Text-Field:before {
   content: "\e9ee";
-  color: #1c274c;
 }
 .icon-bold-Text-Italic-Circle:before {
   content: "\e9ef";
-  color: #1c274c;
 }
 .icon-bold-Text-Italic-Square:before {
   content: "\e9f0";
-  color: #1c274c;
 }
 .icon-bold-Text-Italic:before {
   content: "\e9f1";
-  color: #1c274c;
 }
 .icon-bold-Text-Selection:before {
   content: "\e9f2";
-  color: #1c274c;
 }
 .icon-bold-Text-Square-2:before {
   content: "\e9f3";
-  color: #1c274c;
 }
 .icon-bold-Text-Square:before {
   content: "\e9f4";
-  color: #1c274c;
 }
 .icon-bold-Text-Underline-Circle:before {
   content: "\e9f5";
-  color: #1c274c;
 }
 .icon-bold-Text-Underline-Cross:before {
   content: "\e9f6";
-  color: #1c274c;
 }
 .icon-bold-Text-Underline:before {
   content: "\e9f7";
-  color: #1c274c;
 }
 .icon-bold-Text:before {
   content: "\e9f8";
-  color: #1c274c;
 }
 .icon-bold-Balls:before {
   content: "\e9f9";
@@ -971,171 +906,129 @@
 }
 .icon-bold-Bag-2:before {
   content: "\ea22";
-  color: #1c274c;
 }
 .icon-bold-Bag-3:before {
   content: "\ea23";
-  color: #1c274c;
 }
 .icon-bold-Bag-4:before {
   content: "\ea24";
-  color: #1c274c;
 }
 .icon-bold-Bag-5:before {
   content: "\ea25";
-  color: #1c274c;
 }
 .icon-bold-Bag-Check:before {
   content: "\ea26";
-  color: #1c274c;
 }
 .icon-bold-Bag-Cross:before {
   content: "\ea27";
-  color: #1c274c;
 }
 .icon-bold-Bag-Heart:before {
   content: "\ea28";
-  color: #1c274c;
 }
 .icon-bold-Bag-Music-2:before {
   content: "\ea29";
-  color: #1c274c;
 }
 .icon-bold-Bag-Music:before {
   content: "\ea2a";
-  color: #1c274c;
 }
 .icon-bold-Bag-Smile:before {
   content: "\ea2b";
-  color: #1c274c;
 }
 .icon-bold-Bag:before {
   content: "\ea2c";
-  color: #1c274c;
 }
 .icon-bold-Cart-2:before {
   content: "\ea2d";
-  color: #1c274c;
 }
 .icon-bold-Cart-3:before {
   content: "\ea2e";
-  color: #1c274c;
 }
 .icon-bold-Cart-4:before {
   content: "\ea2f";
-  color: #1c274c;
 }
 .icon-bold-Cart-5:before {
   content: "\ea30";
-  color: #1c274c;
 }
 .icon-bold-Cart-Check:before {
   content: "\ea31";
-  color: #1c274c;
 }
 .icon-bold-Cart-Cross:before {
   content: "\ea32";
-  color: #1c274c;
 }
 .icon-bold-Cart-Large-2:before {
   content: "\ea33";
-  color: #1c274c;
 }
 .icon-bold-Cart-Large-3:before {
   content: "\ea34";
-  color: #1c274c;
 }
 .icon-bold-Cart-Large-4:before {
   content: "\ea35";
-  color: #1c274c;
 }
 .icon-bold-Cart-Large-Minimalistic:before {
   content: "\ea36";
-  color: #1c274c;
 }
 .icon-bold-Cart-Large:before {
   content: "\ea37";
-  color: #1c274c;
 }
 .icon-bold-Cart-Plus:before {
   content: "\ea38";
-  color: #1c274c;
 }
 .icon-bold-Cart:before {
   content: "\ea39";
-  color: #1c274c;
 }
 .icon-bold-Shop-2:before {
   content: "\ea3a";
-  color: #1c274c;
 }
 .icon-bold-Shop-Minimalistic:before {
   content: "\ea3b";
-  color: #1c274c;
 }
 .icon-bold-Shop:before {
   content: "\ea3c";
-  color: #1c274c;
 }
 .icon-bold-Settings-Minimalistic:before {
   content: "\ea3d";
-  color: #1c274c;
 }
 .icon-bold-Settings:before {
   content: "\ea3e";
-  color: #1c274c;
 }
 .icon-bold-Tuning-2:before {
   content: "\ea3f";
-  color: #1c274c;
 }
 .icon-bold-Tuning-3:before {
   content: "\ea40";
-  color: #1c274c;
 }
 .icon-bold-Tuning-4:before {
   content: "\ea41";
-  color: #1c274c;
 }
 .icon-bold-Tuning-Square-2:before {
   content: "\ea42";
-  color: #1c274c;
 }
 .icon-bold-Tuning-Square:before {
   content: "\ea43";
-  color: #1c274c;
 }
 .icon-bold-Tuning:before {
   content: "\ea44";
-  color: #1c274c;
 }
 .icon-bold-Widget-2:before {
   content: "\ea45";
-  color: #1c274c;
 }
 .icon-bold-Widget-3:before {
   content: "\ea46";
-  color: #1c274c;
 }
 .icon-bold-Widget-4:before {
   content: "\ea47";
-  color: #1c274c;
 }
 .icon-bold-Widget-5:before {
   content: "\ea48";
-  color: #1c274c;
 }
 .icon-bold-Widget-6:before {
   content: "\ea49";
-  color: #1c274c;
 }
 .icon-bold-Widget-Add:before {
   content: "\ea4a";
-  color: #1c274c;
 }
 .icon-bold-Widget:before {
   content: "\ea4b";
-  color: #1c274c;
 }
 .icon-bold-Bomb-Emoji:before {
   content: "\ea4c";
@@ -1292,31 +1185,25 @@
 }
 .icon-bold-Minimalistic-Magnifer-Zoom-In .path1:before {
   content: "\ea7f";
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Minimalistic-Magnifer-Zoom-In .path2:before {
   content: "\ea80";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .icon-bold-Minimalistic-Magnifer-Zoom-In .path3:before {
   content: "\ea81";
   margin-left: -1em;
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Minimalistic-Magnifer-Zoom-Out .path1:before {
   content: "\ea82";
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Minimalistic-Magnifer-Zoom-Out .path2:before {
   content: "\ea83";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .icon-bold-Minimalistic-Magnifer-Zoom-Out .path3:before {
   content: "\ea84";
   margin-left: -1em;
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Minimalistic-Magnifer:before {
   content: "\ea85";
@@ -1326,434 +1213,328 @@
 }
 .icon-bold-Rounded-Magnifer-Zoom-In .path1:before {
   content: "\ea87";
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Rounded-Magnifer-Zoom-In .path2:before {
   content: "\ea88";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .icon-bold-Rounded-Magnifer-Zoom-In .path3:before {
   content: "\ea89";
   margin-left: -1em;
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Rounded-Magnifer-Zoom-Out .path1:before {
   content: "\ea8a";
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Rounded-Magnifer-Zoom-Out .path2:before {
   content: "\ea8b";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .icon-bold-Rounded-Magnifer-Zoom-Out .path3:before {
   content: "\ea8c";
   margin-left: -1em;
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Rounded-Magnifer:before {
   content: "\ea8d";
 }
 .icon-bold-Backpack:before {
   content: "\ea8e";
-  
 }
 .icon-bold-Book-2:before {
   content: "\ea8f";
-  
 }
 .icon-bold-Book-Bookmark-Minimalistic:before {
   content: "\ea90";
-  
 }
 .icon-bold-Book-Bookmark:before {
   content: "\ea91";
-  
 }
 .icon-bold-Book-Minimalistic:before {
   content: "\ea92";
-  
 }
 .icon-bold-Book:before {
   content: "\ea93";
-  
 }
 .icon-bold-Bookmark-Circle:before {
   content: "\ea94";
-  
 }
 .icon-bold-Bookmark-Opened:before {
   content: "\ea95";
-  
 }
 .icon-bold-Bookmark-Square-Minimalistic:before {
   content: "\ea96";
-  
 }
 .icon-bold-Bookmark-Square:before {
   content: "\ea97";
-  
 }
 .icon-bold-Bookmark:before {
   content: "\ea98";
-  
 }
 .icon-bold-Calculator-Minimalistic:before {
   content: "\ea99";
-  
 }
 .icon-bold-Calculator:before {
   content: "\ea9a";
-  
 }
 .icon-bold-Case-Minimalistic:before {
   content: "\ea9b";
-  
 }
 .icon-bold-Case-Round-Minimalistic:before {
   content: "\ea9c";
-  color: #1c274c;
 }
 .icon-bold-Case-Round:before {
   content: "\ea9d";
-  
 }
 .icon-bold-Case:before {
   content: "\ea9e";
-  color: #1c274c;
 }
 .icon-bold-Diploma-Verified:before {
   content: "\ea9f";
-  
 }
 .icon-bold-Diploma:before {
   content: "\eaa0";
-  
 }
 .icon-bold-Document:before {
   content: "\eaa1";
-  
 }
 .icon-bold-Notebook-Bookmark:before {
   content: "\eaa2";
-  
 }
 .icon-bold-Notebook-Minimalistic:before {
   content: "\eaa3";
-  
 }
 .icon-bold-Notebook-Square:before {
   content: "\eaa4";
-  
 }
 .icon-bold-Notebook:before {
   content: "\eaa5";
-  
 }
 .icon-bold-Passport-Minimalistic:before {
   content: "\eaa6";
-  
 }
 .icon-bold-Passport:before {
   content: "\eaa7";
-  
 }
 .icon-bold-Plus:before {
   content: "\eaa8";
-  
 }
 .icon-bold-Minus:before {
   content: "\eaa8";
-  
 }
 .icon-bold-Square-Academic-Cap-2:before {
   content: "\eaa9";
-  
 }
 .icon-bold-Square-Academic-Cap:before {
   content: "\eaaa";
-  
 }
 .icon-bold-Bell-Bing:before {
   content: "\eaab";
-  color: #1c274c;
 }
 .icon-bold-Bell-Off:before {
   content: "\eaac";
-  color: #1c274c;
 }
 .icon-bold-Bell:before {
   content: "\eaad";
-  color: #1c274c;
 }
 .icon-bold-Notification-Lines-Remove:before {
   content: "\eaae";
-  color: #1c274c;
 }
 .icon-bold-Notification-Remove:before {
   content: "\eaaf";
-  color: #1c274c;
 }
 .icon-bold-Notification-Unread-Lines:before {
   content: "\eab0";
-  color: #1c274c;
 }
 .icon-bold-Notification-Unread:before {
   content: "\eab1";
-  color: #1c274c;
 }
 .icon-bold-Archive-Check:before {
   content: "\eab2";
-  color: #1c274c;
 }
 .icon-bold-Archive-Down-Minimlistic:before {
   content: "\eab3";
-  color: #1c274c;
 }
 .icon-bold-Archive-Down:before {
   content: "\eab4";
-  color: #1c274c;
 }
 .icon-bold-Archive-Minimalistic:before {
   content: "\eab5";
-  color: #1c274c;
 }
 .icon-bold-Archive-Up-Minimlistic:before {
   content: "\eab6";
-  color: #1c274c;
 }
 .icon-bold-Archive-Up:before {
   content: "\eab7";
-  color: #1c274c;
 }
 .icon-bold-Archive:before {
   content: "\eab8";
-  color: #1c274c;
 }
 .icon-bold-Clipboard-Add:before {
   content: "\eab9";
-  color: #1c274c;
 }
 .icon-bold-Clipboard-Check:before {
   content: "\eaba";
-  color: #1c274c;
 }
 .icon-bold-Clipboard-Heart:before {
   content: "\eabb";
-  color: #1c274c;
 }
 .icon-bold-Clipboard-List:before {
   content: "\eabc";
-  color: #1c274c;
 }
 .icon-bold-Clipboard-Remove:before {
   content: "\eabd";
-  color: #1c274c;
 }
 .icon-bold-Clipboard-Text:before {
   content: "\eabe";
-  color: #1c274c;
 }
 .icon-bold-Clipboard:before {
   content: "\eabf";
-  color: #1c274c;
 }
 .icon-bold-Document-Add:before {
   content: "\eac0";
-  color: #1c274c;
 }
 .icon-bold-Document-Medicine:before {
   content: "\eac1";
-  color: #1c274c;
 }
 .icon-bold-Document-Text:before {
   content: "\eac2";
-  color: #1c274c;
 }
 .icon-bold-Document1:before {
   content: "\eac3";
-  color: #1c274c;
 }
 .icon-bold-Documents-Minimalistic:before {
   content: "\eac4";
-  color: #1c274c;
 }
 .icon-bold-Documents:before {
   content: "\eac5";
-  color: #1c274c;
 }
 .icon-bold-Notebook1:before {
   content: "\eac6";
-  color: #1c274c;
 }
 .icon-bold-Notes-Minimalistic:before {
   content: "\eac7";
-  color: #1c274c;
 }
 .icon-bold-Notes:before {
   content: "\eac8";
-  color: #1c274c;
 }
 .icon-bold-Bug-Minimalistic:before {
   content: "\eac9";
-  color: #1c274c;
 }
 .icon-bold-Bug:before {
   content: "\eaca";
-  color: #1c274c;
 }
 .icon-bold-Code-2:before {
   content: "\eacb";
-  color: #1c274c;
 }
 .icon-bold-Code-Circle:before {
   content: "\eacc";
-  color: #1c274c;
 }
 .icon-bold-Code-Square:before {
   content: "\eacd";
-  color: #1c274c;
 }
 .icon-bold-Code:before {
   content: "\eace";
-  color: #1c274c;
 }
 .icon-bold-Command:before {
   content: "\eacf";
-  color: #1c274c;
 }
 .icon-bold-Hashtag-Chat:before {
   content: "\ead0";
-  color: #1c274c;
 }
 .icon-bold-Hashtag-Circle:before {
   content: "\ead1";
-  color: #1c274c;
 }
 .icon-bold-Hashtag-Square:before {
   content: "\ead2";
-  color: #1c274c;
 }
 .icon-bold-Hashtag:before {
   content: "\ead3";
-  color: #1c274c;
 }
 .icon-bold-Programming:before {
   content: "\ead4";
-  color: #1c274c;
 }
 .icon-bold-Screencast-2:before {
   content: "\ead5";
-  color: #1c274c;
 }
 .icon-bold-Screencast:before {
   content: "\ead6";
-  color: #1c274c;
 }
 .icon-bold-Sidebar-Code:before {
   content: "\ead7";
-  color: #1c274c;
 }
 .icon-bold-Sidebar-Minimalistic:before {
   content: "\ead8";
-  color: #1c274c;
 }
 .icon-bold-Siderbar:before {
   content: "\ead9";
-  color: #1c274c;
 }
 .icon-bold-Slash-Circle:before {
   content: "\eada";
-  color: #1c274c;
 }
 .icon-bold-Slash-Square:before {
   content: "\eadb";
-  color: #1c274c;
 }
 .icon-bold-Station-Minimalistic:before {
   content: "\eadc";
-  color: #1c274c;
 }
 .icon-bold-Station:before {
   content: "\eadd";
-  color: #1c274c;
 }
 .icon-bold-Structure:before {
   content: "\eade";
-  color: #1c274c;
 }
 .icon-bold-Translation-2:before {
   content: "\eadf";
-  color: #1c274c;
 }
 .icon-bold-Translation:before {
   content: "\eae0";
-  color: #1c274c;
 }
 .icon-bold-USB-Circle:before {
   content: "\eae1";
-  color: #1c274c;
 }
 .icon-bold-USB-Square:before {
   content: "\eae2";
-  color: #1c274c;
 }
 .icon-bold-USB:before {
   content: "\eae3";
-  color: #1c274c;
 }
 .icon-bold-Wi-Fi-Router-Minimalistic:before {
   content: "\eae4";
-  color: #1c274c;
 }
 .icon-bold-Wi-Fi-Router-Round:before {
   content: "\eae5";
-  color: #1c274c;
 }
 .icon-bold-Wi-Fi-Router:before {
   content: "\eae6";
-  color: #1c274c;
 }
 .icon-bold-Window-Frame:before {
   content: "\eae7";
-  color: #1c274c;
 }
 .icon-bold-Bonfire:before {
   content: "\eae8";
-  color: #1c274c;
 }
 .icon-bold-Fire-Minimalistic:before {
   content: "\eae9";
-  color: #1c274c;
 }
 .icon-bold-Fire-Square:before {
   content: "\eaea";
-  color: #1c274c;
 }
 .icon-bold-Fire:before {
   content: "\eaeb";
-  color: #1c274c;
 }
 .icon-bold-Flame:before {
   content: "\eaec";
-  color: #1c274c;
 }
 .icon-bold-Leaf:before {
   content: "\eaed";
-  color: #1c274c;
 }
 .icon-bold-Suitcase-Lines:before {
   content: "\eaee";
-  color: #1c274c;
 }
 .icon-bold-Suitcase-Tag:before {
   content: "\eaef";
-  color: #1c274c;
 }
 .icon-bold-Suitcase:before {
   content: "\eaf0";
-  color: #1c274c;
 }
 .icon-bold-Banknote-2:before {
   content: "\eaf1";
@@ -1778,37 +1559,30 @@
 }
 .icon-bold-Card-Recive:before {
   content: "\eaf8";
-  color: #fff;
 }
 .icon-bold-Card-Search:before {
   content: "\eaf9";
 }
 .icon-bold-Card-Send:before {
   content: "\eafa";
-  color: #fff;
 }
 .icon-bold-Card-Transfer:before {
   content: "\eafb";
-  color: #fff;
 }
 .icon-bold-Card .path1:before {
   content: "\eafc";
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Card .path2:before {
   content: "\eafd";
   margin-left: -1em;
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Card .path3:before {
   content: "\eafe";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .icon-bold-Card .path4:before {
   content: "\eaff";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .icon-bold-Cardholder:before {
   content: "\eb00";
@@ -1893,22 +1667,18 @@
 }
 .icon-bold-Chat-Round-Dots .path1:before {
   content: "\eb1b";
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Chat-Round-Dots .path2:before {
   content: "\eb1c";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .icon-bold-Chat-Round-Dots .path3:before {
   content: "\eb1d";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .icon-bold-Chat-Round-Dots .path4:before {
   content: "\eb1e";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .icon-bold-Chat-Round-Like:before {
   content: "\eb1f";
@@ -1957,7 +1727,6 @@
 }
 .icon-bold-Dialog:before {
   content: "\eb2e";
-  color: #fff;
 }
 .icon-bold-Forward:before {
   content: "\eb2f";
@@ -2429,211 +2198,159 @@
 }
 .icon-bold-Dislike:before {
   content: "\ebcb";
-  color: #1c274c;
 }
 .icon-bold-Heart-Angle:before {
   content: "\ebcc";
-  color: #1c274c;
 }
 .icon-bold-Heart-Broken:before {
   content: "\ebcd";
-  color: #1c274c;
 }
 .icon-bold-Heart-Lock:before {
   content: "\ebce";
-  color: #1c274c;
 }
 .icon-bold-Heart-Shine:before {
   content: "\ebcf";
-  color: #1c274c;
 }
 .icon-bold-Heart-Unlock:before {
   content: "\ebd0";
-  color: #1c274c;
 }
 .icon-bold-Heart:before {
   content: "\ebd1";
-  color: #1c274c;
 }
 .icon-bold-Hearts:before {
   content: "\ebd2";
-  color: #1c274c;
 }
 .icon-bold-Like:before {
   content: "\ebd3";
-  color: #1c274c;
 }
 .icon-bold-Medal-Ribbon-Star:before {
   content: "\ebd4";
-  color: #1c274c;
 }
 .icon-bold-Medal-Ribbon:before {
   content: "\ebd5";
-  color: #1c274c;
 }
 .icon-bold-Medal-Ribbons-Star:before {
   content: "\ebd6";
-  color: #1c274c;
 }
 .icon-bold-Medal-Star-Circle:before {
   content: "\ebd7";
-  color: #1c274c;
 }
 .icon-bold-Medal-Star-Square:before {
   content: "\ebd8";
-  color: #1c274c;
 }
 .icon-bold-Medal-Star:before {
   content: "\ebd9";
-  color: #1c274c;
 }
 .icon-bold-Star-Shine:before {
   content: "\ebda";
-  color: #1c274c;
 }
 .icon-bold-Star:before {
   content: "\ebdb";
-  color: #1c274c;
 }
 .icon-bold-Armchair-2:before {
   content: "\ebdc";
-  color: #1c274c;
 }
 .icon-bold-Armchair:before {
   content: "\ebdd";
-  color: #1c274c;
 }
 .icon-bold-Bar-Chair:before {
   content: "\ebde";
-  color: #1c274c;
 }
 .icon-bold-Bath:before {
   content: "\ebdf";
-  color: #1c274c;
 }
 .icon-bold-Bed:before {
   content: "\ebe0";
-  color: #1c274c;
 }
 .icon-bold-Bedside-Table-2:before {
   content: "\ebe1";
-  color: #1c274c;
 }
 .icon-bold-Bedside-Table-3:before {
   content: "\ebe2";
-  color: #1c274c;
 }
 .icon-bold-Bedside-Table-4:before {
   content: "\ebe3";
-  color: #1c274c;
 }
 .icon-bold-Bedside-Table:before {
   content: "\ebe4";
-  color: #1c274c;
 }
 .icon-bold-Chair-2:before {
   content: "\ebe5";
-  color: #1c274c;
 }
 .icon-bold-Chair:before {
   content: "\ebe6";
-  color: #1c274c;
 }
 .icon-bold-Chandelier:before {
   content: "\ebe7";
-  color: #1c274c;
 }
 .icon-bold-Closet-2:before {
   content: "\ebe8";
-  color: #1c274c;
 }
 .icon-bold-Closet:before {
   content: "\ebe9";
-  color: #1c274c;
 }
 .icon-bold-Condicioner-2:before {
   content: "\ebea";
-  color: #1c274c;
 }
 .icon-bold-Condicioner:before {
   content: "\ebeb";
-  color: #1c274c;
 }
 .icon-bold-Floor-Lamp-Minimalistic:before {
   content: "\ebec";
-  color: #1c274c;
 }
 .icon-bold-Floor-Lamp:before {
   content: "\ebed";
-  color: #1c274c;
 }
 .icon-bold-Fridge:before {
   content: "\ebee";
-  color: #1c274c;
 }
 .icon-bold-Lamp:before {
   content: "\ebef";
-  color: #1c274c;
 }
 .icon-bold-Mirror:before {
   content: "\ebf0";
-  color: #1c274c;
 }
 .icon-bold-Remote-Controller-2:before {
   content: "\ebf1";
-  color: #1c274c;
 }
 .icon-bold-Remote-Controller-Minimalistic:before {
   content: "\ebf2";
-  color: #1c274c;
 }
 .icon-bold-Remote-Controller:before {
   content: "\ebf3";
-  color: #1c274c;
 }
 .icon-bold-Smart-Vacuum-Cleaner-2:before {
   content: "\ebf4";
-  color: #1c274c;
 }
 .icon-bold-Smart-Vacuum-Cleaner:before {
   content: "\ebf5";
-  color: #1c274c;
 }
 .icon-bold-Sofa-2:before {
   content: "\ebf6";
-  color: #1c274c;
 }
 .icon-bold-Sofa-3:before {
   content: "\ebf7";
-  color: #1c274c;
 }
 .icon-bold-Sofa:before {
   content: "\ebf8";
-  color: #1c274c;
 }
 .icon-bold-Speaker-Minimalistic:before {
   content: "\ebf9";
-  color: #1c274c;
 }
 .icon-bold-Speaker:before {
   content: "\ebfa";
-  color: #1c274c;
 }
 .icon-bold-Trellis:before {
   content: "\ebfb";
-  color: #1c274c;
 }
 .icon-bold-Volume-Knob:before {
   content: "\ebfc";
-  color: #1c274c;
 }
 .icon-bold-Washing-Machine-Minimalistic:before {
   content: "\ebfd";
-  color: #1c274c;
 }
 .icon-bold-Washing-Machine:before {
   content: "\ebfe";
-  color: #1c274c;
 }
 .icon-bold-Hand-Heart:before {
   content: "\ebff";
@@ -2652,75 +2369,57 @@
 }
 .icon-bold-Bottle:before {
   content: "\ec04";
-  color: #1c274c;
 }
 .icon-bold-Chef-Hat-Heart:before {
   content: "\ec05";
-  color: #1c274c;
 }
 .icon-bold-Chef-Hat-Minimalistic:before {
   content: "\ec06";
-  color: #1c274c;
 }
 .icon-bold-Chef-Hat:before {
   content: "\ec07";
-  color: #1c274c;
 }
 .icon-bold-Corkscrew:before {
   content: "\ec08";
-  color: #1c274c;
 }
 .icon-bold-Cup-Hot:before {
   content: "\ec09";
-  color: #1c274c;
 }
 .icon-bold-Cup-Paper:before {
   content: "\ec0a";
-  color: #1c274c;
 }
 .icon-bold-Cup:before {
   content: "\ec0b";
-  color: #1c274c;
 }
 .icon-bold-Donut-Bitten:before {
   content: "\ec0c";
-  color: #1c274c;
 }
 .icon-bold-Donut:before {
   content: "\ec0d";
-  color: #1c274c;
 }
 .icon-bold-Ladle:before {
   content: "\ec0e";
-  color: #1c274c;
 }
 .icon-bold-Oven-Mitts-Minimalistic:before {
   content: "\ec0f";
-  color: #1c274c;
 }
 .icon-bold-Oven-Mitts:before {
   content: "\ec10";
-  color: #1c274c;
 }
 .icon-bold-Rolling-Pin:before {
   content: "\ec11";
-  color: #1c274c;
 }
 .icon-bold-Tea-Cup:before {
   content: "\ec12";
-  color: #1c274c;
 }
 .icon-bold-Whisk:before {
   content: "\ec13";
-  color: #1c274c;
 }
 .icon-bold-Wineglass-Triangle:before {
   content: "\ec14";
-  color: #1c274c;
 }
 .icon-bold-Wineglass:before {
   content: "\ec15";
-  color: #1c274c;
 }
 .icon-bold-Add-Folder:before {
   content: "\ec16";
@@ -2754,17 +2453,14 @@
 }
 .icon-bold-Folder-With-Files .path1:before {
   content: "\ec20";
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Folder-With-Files .path2:before {
   content: "\ec21";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .icon-bold-Folder-With-Files .path3:before {
   content: "\ec22";
   margin-left: -1em;
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Folder:before {
   content: "\ec23";
@@ -3428,12 +3124,10 @@
 }
 .icon-bold-Lightbulb .path1:before {
   content: "\ecff";
-  color: rgb(38, 40, 43);
 }
 .icon-bold-Lightbulb .path2:before {
   content: "\ed00";
   margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .icon-bold-Lightning:before {
   content: "\ed01";
@@ -3575,119 +3269,90 @@
 }
 .icon-bold-Align-Bottom:before {
   content: "\ed2f";
-  color: #1c274c;
 }
 .icon-bold-Align-Horizonta-Spacing:before {
   content: "\ed30";
-  color: #1c274c;
 }
 .icon-bold-Align-Horizontal-Center:before {
   content: "\ed31";
-  color: #1c274c;
 }
 .icon-bold-Align-Left:before {
   content: "\ed32";
-  color: #1c274c;
 }
 .icon-bold-Align-Right:before {
   content: "\ed33";
-  color: #1c274c;
 }
 .icon-bold-Align-Top:before {
   content: "\ed34";
-  color: #1c274c;
 }
 .icon-bold-Align-Vertical-Center:before {
   content: "\ed35";
-  color: #1c274c;
 }
 .icon-bold-Align-Vertical-Spacing:before {
   content: "\ed36";
-  color: #1c274c;
 }
 .icon-bold-Colour-Tuneing:before {
   content: "\ed37";
-  color: #1c274c;
 }
 .icon-bold-Crop-Minimalistic:before {
   content: "\ed38";
-  color: #1c274c;
 }
 .icon-bold-Crop:before {
   content: "\ed39";
-  color: #1c274c;
 }
 .icon-bold-Filters:before {
   content: "\ed3a";
-  color: #1c274c;
 }
 .icon-bold-Flip-Horizontal:before {
   content: "\ed3b";
-  color: #1c274c;
 }
 .icon-bold-Flip-Vertical:before {
   content: "\ed3c";
-  color: #1c274c;
 }
 .icon-bold-Layers-Minimalistic:before {
   content: "\ed3d";
-  color: #1c274c;
 }
 .icon-bold-Layers:before {
   content: "\ed3e";
-  color: #1c274c;
 }
 .icon-bold-Mirror-Left:before {
   content: "\ed3f";
-  color: #1c274c;
 }
 .icon-bold-Mirror-Right:before {
   content: "\ed40";
-  color: #1c274c;
 }
 .icon-bold-Paint-Roller:before {
   content: "\ed41";
-  color: #1c274c;
 }
 .icon-bold-Palette-Round:before {
   content: "\ed42";
-  color: #1c274c;
 }
 .icon-bold-Palette:before {
   content: "\ed43";
-  color: #1c274c;
 }
 .icon-bold-Pallete-2:before {
   content: "\ed44";
-  color: #1c274c;
 }
 .icon-bold-Pipette:before {
   content: "\ed45";
-  color: #1c274c;
 }
 .icon-bold-Radial-Blur:before {
   content: "\ed46";
-  color: #1c274c;
 }
 .icon-bold-Ruler-Angular:before {
   content: "\ed47";
-  color: #1c274c;
 }
 .icon-bold-Ruler-Cross-Pen:before {
   content: "\ed48";
-  color: #1c274c;
 }
 .icon-bold-Ruler-Pen:before {
   content: "\ed49";
-  color: #1c274c;
 }
 .icon-bold-Ruler:before {
   content: "\ed4a";
-  color: #1c274c;
 }
 .icon-bold-Three-Squares:before {
   content: "\ed4b";
-  color: #1c274c;
 }
 .icon-bold-Call-Cancel-Rounded:before {
   content: "\ed4c";
@@ -3754,107 +3419,81 @@
 }
 .icon-bold-Chart-2:before {
   content: "\ed61";
-  color: #1c274c;
 }
 .icon-bold-Chart-Square:before {
   content: "\ed62";
-  color: #1c274c;
 }
 .icon-bold-Chart:before {
   content: "\ed63";
-  color: #1c274c;
 }
 .icon-bold-Chat-Square-2:before {
   content: "\ed64";
-  color: #1c274c;
 }
 .icon-bold-Course-Down:before {
   content: "\ed65";
-  color: #1c274c;
 }
 .icon-bold-Course-Up:before {
   content: "\ed66";
-  color: #1c274c;
 }
 .icon-bold-Diagram-Down:before {
   content: "\ed67";
-  color: #1c274c;
 }
 .icon-bold-Diagram-Up:before {
   content: "\ed68";
-  color: #1c274c;
 }
 .icon-bold-Graph-Down-New:before {
   content: "\ed69";
-  color: #1c274c;
 }
 .icon-bold-Graph-Down:before {
   content: "\ed6a";
-  color: #1c274c;
 }
 .icon-bold-Graph-New-Up:before {
   content: "\ed6b";
-  color: #1c274c;
 }
 .icon-bold-Graph-New:before {
   content: "\ed6c";
-  color: #1c274c;
 }
 .icon-bold-Graph-Up:before {
   content: "\ed6d";
-  color: #1c274c;
 }
 .icon-bold-Graph:before {
   content: "\ed6e";
-  color: #1c274c;
 }
 .icon-bold-Pie-Chart-2:before {
   content: "\ed6f";
-  color: #1c274c;
 }
 .icon-bold-Pie-Chart-3:before {
   content: "\ed70";
-  color: #1c274c;
 }
 .icon-bold-Pie-Chart:before {
   content: "\ed71";
-  color: #1c274c;
 }
 .icon-bold-Presentation-Graph:before {
   content: "\ed72";
-  color: #1c274c;
 }
 .icon-bold-Round-Graph:before {
   content: "\ed73";
-  color: #1c274c;
 }
 .icon-bold-Buildings-2:before {
   content: "\ed74";
-  color: #1c274c;
 }
 .icon-bold-Buildings-3:before {
   content: "\ed75";
-  color: #1c274c;
 }
 .icon-bold-Buildings:before {
   content: "\ed76";
-  color: #1c274c;
 }
 .icon-bold-City:before {
   content: "\ed77";
-  color: #1c274c;
 }
 .icon-bold-Garage:before {
   content: "\ed78";
-  color: #1c274c;
 }
 .icon-bold-Home1:before {
   content: "\ed79";
-  color: #1c274c;
 }
 .icon-bold-Buildings1:before {
   content: "\ed7a";
-  color: #1c274c;
 }
 .icon-bold-Asteroid:before {
   content: "\ed7b";
@@ -3954,234 +3593,177 @@
 }
 .icon-bold-Arrow-To-Down-Left:before {
   content: "\ed9b";
-  color: #1c274c;
 }
 .icon-bold-Arrow-To-Down-Right:before {
   content: "\ed9c";
-  color: #1c274c;
 }
 .icon-bold-Arrow-To-Top-Left:before {
   content: "\ed9d";
-  color: #1c274c;
 }
 .icon-bold-Arrow-To-Top-Right:before {
   content: "\ed9e";
-  color: #1c274c;
 }
 .icon-bold-Circle-Bottom-Down:before {
   content: "\ed9f";
 }
 .icon-bold-Circle-Bottom-Up:before {
   content: "\eda0";
-  color: #1c274c;
 }
 .icon-bold-Circle-Top-Down:before {
   content: "\eda1";
-  color: #1c274c;
 }
 .icon-bold-Circle-Top-Up:before {
   content: "\eda2";
-  color: #1c274c;
 }
 .icon-bold-Download-Minimalistic:before {
   content: "\eda3";
-  color: #1c274c;
 }
 .icon-bold-Download-Square:before {
   content: "\eda4";
-  color: #1c274c;
 }
 .icon-bold-Download-Twice-Square:before {
   content: "\eda5";
-  color: #1c274c;
 }
 .icon-bold-Download:before {
   content: "\eda6";
-  color: #1c274c;
 }
 .icon-bold-Exit:before {
   content: "\eda7";
-  color: #1c274c;
 }
 .icon-bold-Export:before {
   content: "\eda8";
-  color: #1c274c;
 }
 .icon-bold-Forward-2:before {
   content: "\eda9";
-  color: #1c274c;
 }
 .icon-bold-Forward1:before {
   content: "\edaa";
-  color: #1c274c;
 }
 .icon-bold-Import:before {
   content: "\edab";
-  color: #1c274c;
 }
 .icon-bold-Login-2:before {
   content: "\edac";
-  color: #1c274c;
 }
 .icon-bold-Login-3:before {
   content: "\edad";
-  color: #1c274c;
 }
 .icon-bold-Login:before {
   content: "\edae";
-  color: #1c274c;
 }
 .icon-bold-Logout-2:before {
   content: "\edaf";
-  color: #1c274c;
 }
 .icon-bold-Logout-3:before {
   content: "\edb0";
-  color: #1c274c;
 }
 .icon-bold-Logout:before {
   content: "\edb1";
-  color: #1c274c;
 }
 .icon-bold-Maximize-Square-2:before {
   content: "\edb2";
-  color: #1c274c;
 }
 .icon-bold-Maximize-Square-3:before {
   content: "\edb3";
-  color: #1c274c;
 }
 .icon-bold-Maximize-Square-Minimalistic:before {
   content: "\edb4";
-  color: #1c274c;
 }
 .icon-bold-Maximize-Square:before {
   content: "\edb5";
-  color: #1c274c;
 }
 .icon-bold-Maximize:before {
   content: "\edb6";
-  color: #1c274c;
 }
 .icon-bold-Minimize-Square-2:before {
   content: "\edb7";
-  color: #1c274c;
 }
 .icon-bold-Minimize-Square-3:before {
   content: "\edb8";
-  color: #1c274c;
 }
 .icon-bold-Minimize-Square-Minimalistic:before {
   content: "\edb9";
-  color: #1c274c;
 }
 .icon-bold-Minimize-Square:before {
   content: "\edba";
-  color: #1c274c;
 }
 .icon-bold-Minimize:before {
   content: "\edbb";
-  color: #1c274c;
 }
 .icon-bold-Recive-Square:before {
   content: "\edbc";
-  color: #1c274c;
 }
 .icon-bold-Recive-Twice-Square:before {
   content: "\edbd";
-  color: #1c274c;
 }
 .icon-bold-Reorder1:before {
   content: "\edbe";
-  color: #1c274c;
 }
 .icon-bold-Reply-2:before {
   content: "\edbf";
-  color: #1c274c;
 }
 .icon-bold-Reply:before {
   content: "\edc0";
-  color: #1c274c;
 }
 .icon-bold-Scale:before {
   content: "\edc1";
-  color: #1c274c;
 }
 .icon-bold-Screen-Share:before {
   content: "\edc2";
-  color: #1c274c;
 }
 .icon-bold-Send-Square:before {
   content: "\edc3";
-  color: #1c274c;
 }
 .icon-bold-Send-Twice-Square:before {
   content: "\edc4";
-  color: #1c274c;
 }
 .icon-bold-Square-Bottom-Down:before {
   content: "\edc5";
-  color: #1c274c;
 }
 .icon-bold-Square-Bottom-Up:before {
   content: "\edc6";
-  color: #1c274c;
 }
 .icon-bold-Square-Top-Down:before {
   content: "\edc7";
-  color: #1c274c;
 }
 .icon-bold-Square-Top-Up:before {
   content: "\edc8";
-  color: #1c274c;
 }
 .icon-bold-Undo-Left-Round-Square:before {
   content: "\edc9";
-  color: #1c274c;
 }
 .icon-bold-Undo-Left-Round:before {
   content: "\edca";
-  color: #1c274c;
 }
 .icon-bold-Undo-Left-Square:before {
   content: "\edcb";
-  color: #1c274c;
 }
 .icon-bold-Undo-Left:before {
   content: "\edcc";
-  color: #1c274c;
 }
 .icon-bold-Undo-Right-Round-Square:before {
   content: "\edcd";
-  color: #1c274c;
 }
 .icon-bold-Undo-Right-Round:before {
   content: "\edce";
-  color: #1c274c;
 }
 .icon-bold-Undo-Right-Square:before {
   content: "\edcf";
-  color: #1c274c;
 }
 .icon-bold-Undo-Right:before {
   content: "\edd0";
-  color: #1c274c;
 }
 .icon-bold-Upload-Minimalistic:before {
   content: "\edd1";
-  color: #1c274c;
 }
 .icon-bold-Upload-Square:before {
   content: "\edd2";
-  color: #1c274c;
 }
 .icon-bold-Upload-Twice-Square:before {
   content: "\edd3";
-  color: #1c274c;
 }
 .icon-bold-Upload:before {
   content: "\edd4";
-  color: #1c274c;
 }
 .icon-bold-Alt-Arrow-Down:before {
   content: "\edd5";

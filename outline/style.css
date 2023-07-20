@@ -1,18 +1,19 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?9yo5v');
-  src:  url('fonts/icomoon.eot?9yo5v#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?9yo5v') format('truetype'),
-    url('fonts/icomoon.woff?9yo5v') format('woff'),
-    url('fonts/icomoon.svg?9yo5v#icomoon') format('svg');
+  font-family: "icomoon";
+  src: url("fonts/icomoon.eot?9yo5v");
+  src: url("fonts/icomoon.eot?9yo5v#iefix") format("embedded-opentype"),
+    url("fonts/icomoon.ttf?9yo5v") format("truetype"),
+    url("fonts/icomoon.woff?9yo5v") format("woff"),
+    url("fonts/icomoon.svg?9yo5v#icomoon") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-[class^="icon-outline-"], [class*=" icon-outline-"] {
+[class^="icon-outline-"],
+[class*=" icon-outline-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: "icomoon" !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
@@ -444,91 +445,69 @@
 }
 .icon-outline-User-Block-Rounded:before {
   content: "\e98b";
-  color: #1c274c;
 }
 .icon-outline-User-Block:before {
   content: "\e98c";
-  color: #1c274c;
 }
 .icon-outline-User-Check-Rounded:before {
   content: "\e98d";
-  color: #1c274c;
 }
 .icon-outline-User-Check:before {
   content: "\e98e";
-  color: #1c274c;
 }
 .icon-outline-User-Circle:before {
   content: "\e98f";
-  color: #1c274c;
 }
 .icon-outline-User-Cross-Rounded:before {
   content: "\e990";
-  color: #1c274c;
 }
 .icon-outline-User-Cross:before {
   content: "\e991";
-  color: #1c274c;
 }
 .icon-outline-User-Hand-Up:before {
   content: "\e992";
-  color: #1c274c;
 }
 .icon-outline-User-Hands:before {
   content: "\e993";
-  color: #1c274c;
 }
 .icon-outline-User-Heart-Rounded:before {
   content: "\e994";
-  color: #1c274c;
 }
 .icon-outline-User-Heart:before {
   content: "\e995";
-  color: #1c274c;
 }
 .icon-outline-User-Id:before {
   content: "\e996";
-  color: #1c274c;
 }
 .icon-outline-User-Minus-Rounded:before {
   content: "\e997";
-  color: #1c274c;
 }
 .icon-outline-User-Minus:before {
   content: "\e998";
-  color: #1c274c;
 }
 .icon-outline-User-Plus-Rounded:before {
   content: "\e999";
-  color: #1c274c;
 }
 .icon-outline-User-Plus:before {
   content: "\e99a";
-  color: #1c274c;
 }
 .icon-outline-User-Rounded:before {
   content: "\e99b";
-  color: #1c274c;
 }
 .icon-outline-User-Speak-Rounded:before {
   content: "\e99c";
-  color: #1c274c;
 }
 .icon-outline-User-Speak:before {
   content: "\e99d";
-  color: #1c274c;
 }
 .icon-outline-User:before {
   content: "\e99e";
-  color: #1c274c;
 }
 .icon-outline-Users-Group-Rounded:before {
   content: "\e99f";
-  color: #1c274c;
 }
 .icon-outline-Users-Group-Two-Rounded:before {
   content: "\e9a0";
-  color: #1c274c;
 }
 .icon-outline-Accumulator:before {
   content: "\e9a1";
@@ -670,135 +649,102 @@
 }
 .icon-outline-Backspace:before {
   content: "\e9cf";
-  color: #1c274c;
 }
 .icon-outline-Eraser-Circle:before {
   content: "\e9d0";
-  color: #1c274c;
 }
 .icon-outline-Eraser-Square:before {
   content: "\e9d1";
-  color: #1c274c;
 }
 .icon-outline-Eraser:before {
   content: "\e9d2";
-  color: #1c274c;
 }
 .icon-outline-Link-Broken-Minimalistic:before {
   content: "\e9d3";
-  color: #1c274c;
 }
 .icon-outline-Link-Broken:before {
   content: "\e9d4";
-  color: #1c274c;
 }
 .icon-outline-Link-Circle:before {
   content: "\e9d5";
-  color: #1c274c;
 }
 .icon-outline-Link-Minimalistic-2:before {
   content: "\e9d6";
-  color: #1c274c;
 }
 .icon-outline-Link-Minimalistic:before {
   content: "\e9d7";
-  color: #1c274c;
 }
 .icon-outline-Link-Round-Angle:before {
   content: "\e9d8";
-  color: #1c274c;
 }
 .icon-outline-Link-Round:before {
   content: "\e9d9";
-  color: #1c274c;
 }
 .icon-outline-Link-Square:before {
   content: "\e9da";
-  color: #1c274c;
 }
 .icon-outline-Link:before {
   content: "\e9db";
-  color: #1c274c;
 }
 .icon-outline-Paragraph-Spacing:before {
   content: "\e9dc";
-  color: #1c274c;
 }
 .icon-outline-Text-Bold-Circle:before {
   content: "\e9dd";
-  color: #1c274c;
 }
 .icon-outline-Text-Bold-Square:before {
   content: "\e9de";
-  color: #1c274c;
 }
 .icon-outline-Text-Bold:before {
   content: "\e9df";
-  color: #1c274c;
 }
 .icon-outline-Text-Circle:before {
   content: "\e9e0";
-  color: #1c274c;
 }
 .icon-outline-Text-Cross-Circle:before {
   content: "\e9e1";
-  color: #1c274c;
 }
 .icon-outline-Text-Cross-Square:before {
   content: "\e9e2";
-  color: #1c274c;
 }
 .icon-outline-Text-Cross:before {
   content: "\e9e3";
-  color: #1c274c;
 }
 .icon-outline-Text-Field-Focus:before {
   content: "\e9e4";
-  color: #1c274c;
 }
 .icon-outline-Text-Field:before {
   content: "\e9e5";
-  color: #1c274c;
 }
 .icon-outline-Text-Italic-Circle:before {
   content: "\e9e6";
-  color: #1c274c;
 }
 .icon-outline-Text-Italic-Square:before {
   content: "\e9e7";
-  color: #1c274c;
 }
 .icon-outline-Text-Italic:before {
   content: "\e9e8";
-  color: #1c274c;
 }
 .icon-outline-Text-Selection:before {
   content: "\e9e9";
-  color: #1c274c;
 }
 .icon-outline-Text-Square-2:before {
   content: "\e9ea";
-  color: #1c274c;
 }
 .icon-outline-Text-Square:before {
   content: "\e9eb";
-  color: #1c274c;
 }
 .icon-outline-Text-Underline-Circle:before {
   content: "\e9ec";
-  color: #1c274c;
 }
 .icon-outline-Text-Underline-Cross:before {
   content: "\e9ed";
-  color: #1c274c;
 }
 .icon-outline-Text-Underline:before {
   content: "\e9ee";
-  color: #1c274c;
 }
 .icon-outline-Text:before {
   content: "\e9ef";
-  color: #1c274c;
 }
 .icon-outline-Balls:before {
   content: "\e9f0";
@@ -925,171 +871,129 @@
 }
 .icon-outline-Bag-2:before {
   content: "\ea19";
-  color: #1c274c;
 }
 .icon-outline-Bag-3:before {
   content: "\ea1a";
-  color: #1c274c;
 }
 .icon-outline-Bag-4:before {
   content: "\ea1b";
-  color: #1c274c;
 }
 .icon-outline-Bag-5:before {
   content: "\ea1c";
-  color: #1c274c;
 }
 .icon-outline-Bag-Check:before {
   content: "\ea1d";
-  color: #1c274c;
 }
 .icon-outline-Bag-Cross:before {
   content: "\ea1e";
-  color: #1c274c;
 }
 .icon-outline-Bag-Heart:before {
   content: "\ea1f";
-  color: #1c274c;
 }
 .icon-outline-Bag-Music-2:before {
   content: "\ea20";
-  color: #1c274c;
 }
 .icon-outline-Bag-Music:before {
   content: "\ea21";
-  color: #1c274c;
 }
 .icon-outline-Bag-Smile:before {
   content: "\ea22";
-  color: #1c274c;
 }
 .icon-outline-Bag:before {
   content: "\ea23";
-  color: #1c274c;
 }
 .icon-outline-Cart-2:before {
   content: "\ea24";
-  color: #1c274c;
 }
 .icon-outline-Cart-3:before {
   content: "\ea25";
-  color: #1c274c;
 }
 .icon-outline-Cart-4:before {
   content: "\ea26";
-  color: #1c274c;
 }
 .icon-outline-Cart-5:before {
   content: "\ea27";
-  color: #1c274c;
 }
 .icon-outline-Cart-Check:before {
   content: "\ea28";
-  color: #1c274c;
 }
 .icon-outline-Cart-Cross:before {
   content: "\ea29";
-  color: #1c274c;
 }
 .icon-outline-Cart-Large-2:before {
   content: "\ea2a";
-  color: #1c274c;
 }
 .icon-outline-Cart-Large-3:before {
   content: "\ea2b";
-  color: #1c274c;
 }
 .icon-outline-Cart-Large-4:before {
   content: "\ea2c";
-  color: #1c274c;
 }
 .icon-outline-Cart-Large-Minimalistic:before {
   content: "\ea2d";
-  color: #1c274c;
 }
 .icon-outline-Cart-Large:before {
   content: "\ea2e";
-  color: #1c274c;
 }
 .icon-outline-Cart-Plus:before {
   content: "\ea2f";
-  color: #1c274c;
 }
 .icon-outline-Cart:before {
   content: "\ea30";
-  color: #1c274c;
 }
 .icon-outline-Shop-2:before {
   content: "\ea31";
-  color: #1c274c;
 }
 .icon-outline-Shop-Minimalistic:before {
   content: "\ea32";
-  color: #1c274c;
 }
 .icon-outline-Shop:before {
   content: "\ea33";
-  color: #1c274c;
 }
 .icon-outline-Settings-Minimalistic:before {
   content: "\ea34";
-  color: #1c274c;
 }
 .icon-outline-Settings:before {
   content: "\ea35";
-  color: #1c274c;
 }
 .icon-outline-Tuning-2:before {
   content: "\ea36";
-  color: #1c274c;
 }
 .icon-outline-Tuning-3:before {
   content: "\ea37";
-  color: #1c274c;
 }
 .icon-outline-Tuning-4:before {
   content: "\ea38";
-  color: #1c274c;
 }
 .icon-outline-Tuning-Square-2:before {
   content: "\ea39";
-  color: #1c274c;
 }
 .icon-outline-Tuning-Square:before {
   content: "\ea3a";
-  color: #1c274c;
 }
 .icon-outline-Tuning:before {
   content: "\ea3b";
-  color: #1c274c;
 }
 .icon-outline-Widget-2:before {
   content: "\ea3c";
-  color: #1c274c;
 }
 .icon-outline-Widget-3:before {
   content: "\ea3d";
-  color: #1c274c;
 }
 .icon-outline-Widget-4:before {
   content: "\ea3e";
-  color: #1c274c;
 }
 .icon-outline-Widget-5:before {
   content: "\ea3f";
-  color: #1c274c;
 }
 .icon-outline-Widget-6:before {
   content: "\ea40";
-  color: #1c274c;
 }
 .icon-outline-Widget-Add:before {
   content: "\ea41";
-  color: #1c274c;
 }
 .icon-outline-Widget:before {
   content: "\ea42";
-  color: #1c274c;
 }
 .icon-outline-Bomb-Emoji:before {
   content: "\ea43";
@@ -1278,7 +1182,7 @@
   content: "\ea80";
 }
 .icon-outline-Book-Minimalistic:before {
-  content: "\ea81";  
+  content: "\ea81";
 }
 .icon-outline-Book:before {
   content: "\ea82";
@@ -1294,367 +1198,276 @@
 }
 .icon-outline-Bookmark-Square:before {
   content: "\ea86";
-  
 }
 .icon-outline-Bookmark:before {
   content: "\ea87";
-  
 }
 .icon-outline-Calculator-Minimalistic:before {
   content: "\ea88";
-  
 }
 .icon-outline-Calculator:before {
   content: "\ea89";
-  
 }
 .icon-outline-Case-Minimalistic:before {
   content: "\ea8a";
-  
 }
 .icon-outline-Case-Round-Minimalistic:before {
   content: "\ea8b";
-  
 }
 .icon-outline-Case-Round:before {
   content: "\ea8c";
-  
 }
 .icon-outline-Case:before {
   content: "\ea8d";
-  
 }
 .icon-outline-Diploma-Verified:before {
   content: "\ea8e";
-  
 }
 .icon-outline-Diploma:before {
   content: "\ea8f";
-  
 }
 .icon-outline-Document:before {
   content: "\ea90";
-  
 }
 .icon-outline-Notebook-Bookmark:before {
   content: "\ea91";
-  
 }
 .icon-outline-Notebook-Minimalistic:before {
   content: "\ea92";
-  
 }
 .icon-outline-Notebook-Square:before {
   content: "\ea93";
-  
 }
 .icon-outline-Notebook:before {
   content: "\ea94";
-  
 }
 .icon-outline-Passport-Minimalistic:before {
   content: "\ea95";
-  
 }
 .icon-outline-Passport:before {
   content: "\ea96";
-  
 }
 .icon-outline-Plus:before {
   content: "\ea97";
-  
 }
 .icon-outline-Minus:before {
   content: "\ea97";
-  
 }
 .icon-outline-Square-Academic-Cap-2:before {
   content: "\ea98";
-  
 }
 .icon-outline-Square-Academic-Cap:before {
   content: "\ea99";
-  
 }
 .icon-outline-Bell-Bing:before {
   content: "\ea9a";
-  color: #1c274c;
 }
 .icon-outline-Bell-Off:before {
   content: "\ea9b";
-  color: #1c274c;
 }
 .icon-outline-Bell:before {
   content: "\ea9c";
-  color: #1c274c;
 }
 .icon-outline-Notification-Lines-Remove:before {
   content: "\ea9d";
-  color: #1c274c;
 }
 .icon-outline-Notification-Remove:before {
   content: "\ea9e";
-  color: #1c274c;
 }
 .icon-outline-Notification-Unread-Lines:before {
   content: "\ea9f";
-  color: #1c274c;
 }
 .icon-outline-Notification-Unread:before {
   content: "\eaa0";
-  color: #1c274c;
 }
 .icon-outline-Archive-Check:before {
   content: "\eaa1";
-  color: #1c274c;
 }
 .icon-outline-Archive-Down-Minimlistic:before {
   content: "\eaa2";
-  color: #1c274c;
 }
 .icon-outline-Archive-Down:before {
   content: "\eaa3";
-  color: #1c274c;
 }
 .icon-outline-Archive-Minimalistic:before {
   content: "\eaa4";
-  color: #1c274c;
 }
 .icon-outline-Archive-Up-Minimlistic:before {
   content: "\eaa5";
-  color: #1c274c;
 }
 .icon-outline-Archive-Up:before {
   content: "\eaa6";
-  color: #1c274c;
 }
 .icon-outline-Archive:before {
   content: "\eaa7";
-  color: #1c274c;
 }
 .icon-outline-Clipboard-Add:before {
   content: "\eaa8";
-  color: #1c274c;
 }
 .icon-outline-Clipboard-Check:before {
   content: "\eaa9";
-  color: #1c274c;
 }
 .icon-outline-Clipboard-Heart:before {
   content: "\eaaa";
-  color: #1c274c;
 }
 .icon-outline-Clipboard-List:before {
   content: "\eaab";
-  color: #1c274c;
 }
 .icon-outline-Clipboard-Remove:before {
   content: "\eaac";
-  color: #1c274c;
 }
 .icon-outline-Clipboard-Text:before {
   content: "\eaad";
-  color: #1c274c;
 }
 .icon-outline-Clipboard:before {
   content: "\eaae";
-  color: #1c274c;
 }
 .icon-outline-Document-Add:before {
   content: "\eaaf";
-  color: #1c274c;
 }
 .icon-outline-Document-Medicine:before {
   content: "\eab0";
-  color: #1c274c;
 }
 .icon-outline-Document-Text:before {
   content: "\eab1";
-  color: #1c274c;
 }
 .icon-outline-Document1:before {
   content: "\eab2";
-  color: #1c274c;
 }
 .icon-outline-Documents-Minimalistic:before {
   content: "\eab3";
-  color: #1c274c;
 }
 .icon-outline-Documents:before {
   content: "\eab4";
-  color: #1c274c;
 }
 .icon-outline-Notebook1:before {
   content: "\eab5";
-  color: #1c274c;
 }
 .icon-outline-Notes-Minimalistic:before {
   content: "\eab6";
-  color: #1c274c;
 }
 .icon-outline-Notes:before {
   content: "\eab7";
-  color: #1c274c;
 }
 .icon-outline-Bug-Minimalistic:before {
   content: "\eab8";
-  color: #1c274c;
 }
 .icon-outline-Bug:before {
   content: "\eab9";
-  color: #1c274c;
 }
 .icon-outline-Code-2:before {
   content: "\eaba";
-  color: #1c274c;
 }
 .icon-outline-Code-Circle:before {
   content: "\eabb";
-  color: #1c274c;
 }
 .icon-outline-Code-Square:before {
   content: "\eabc";
-  color: #1c274c;
 }
 .icon-outline-Code:before {
   content: "\eabd";
-  color: #1c274c;
 }
 .icon-outline-Command:before {
   content: "\eabe";
-  color: #1c274c;
 }
 .icon-outline-Hashtag-Chat:before {
   content: "\eabf";
-  color: #1c274c;
 }
 .icon-outline-Hashtag-Circle:before {
   content: "\eac0";
-  color: #1c274c;
 }
 .icon-outline-Hashtag-Square:before {
   content: "\eac1";
-  color: #1c274c;
 }
 .icon-outline-Hashtag:before {
   content: "\eac2";
-  color: #1c274c;
 }
 .icon-outline-Programming:before {
   content: "\eac3";
-  color: #1c274c;
 }
 .icon-outline-Screencast-2:before {
   content: "\eac4";
-  color: #1c274c;
 }
 .icon-outline-Screencast:before {
   content: "\eac5";
-  color: #1c274c;
 }
 .icon-outline-Sidebar-Code:before {
   content: "\eac6";
-  color: #1c274c;
 }
 .icon-outline-Sidebar-Minimalistic:before {
   content: "\eac7";
-  color: #1c274c;
 }
 .icon-outline-Siderbar:before {
   content: "\eac8";
-  color: #1c274c;
 }
 .icon-outline-Slash-Circle:before {
   content: "\eac9";
-  color: #1c274c;
 }
 .icon-outline-Slash-Square:before {
   content: "\eaca";
-  color: #1c274c;
 }
 .icon-outline-Station-Minimalistic:before {
   content: "\eacb";
-  color: #1c274c;
 }
 .icon-outline-Station:before {
   content: "\eacc";
-  color: #1c274c;
 }
 .icon-outline-Structure:before {
   content: "\eacd";
-  color: #1c274c;
 }
 .icon-outline-Translation-2:before {
   content: "\eace";
-  color: #1c274c;
 }
 .icon-outline-Translation:before {
   content: "\eacf";
-  color: #1c274c;
 }
 .icon-outline-USB-Circle:before {
   content: "\ead0";
-  color: #1c274c;
 }
 .icon-outline-USB-Square:before {
   content: "\ead1";
-  color: #1c274c;
 }
 .icon-outline-USB:before {
   content: "\ead2";
-  color: #1c274c;
 }
 .icon-outline-Wi-Fi-Router-Minimalistic:before {
   content: "\ead3";
-  color: #1c274c;
 }
 .icon-outline-Wi-Fi-Router-Round:before {
   content: "\ead4";
-  color: #1c274c;
 }
 .icon-outline-Wi-Fi-Router:before {
   content: "\ead5";
-  color: #1c274c;
 }
 .icon-outline-Window-Frame:before {
   content: "\ead6";
-  color: #1c274c;
 }
 .icon-outline-Bonfire:before {
   content: "\ead7";
-  color: #1c274c;
 }
 .icon-outline-Fire-Minimalistic:before {
   content: "\ead8";
-  color: #1c274c;
 }
 .icon-outline-Fire-Square:before {
   content: "\ead9";
-  color: #1c274c;
 }
 .icon-outline-Fire:before {
   content: "\eada";
-  color: #1c274c;
 }
 .icon-outline-Flame:before {
   content: "\eadb";
-  color: #1c274c;
 }
 .icon-outline-Leaf:before {
   content: "\eadc";
-  color: #1c274c;
 }
 .icon-outline-Suitcase-Lines:before {
   content: "\eadd";
-  color: #1c274c;
 }
 .icon-outline-Suitcase-Tag:before {
   content: "\eade";
-  color: #1c274c;
 }
 .icon-outline-Suitcase:before {
   content: "\eadf";
-  color: #1c274c;
 }
 .icon-outline-Banknote-2:before {
   content: "\eae0";
@@ -2198,211 +2011,159 @@
 }
 .icon-outline-Dislike:before {
   content: "\eb94";
-  color: #1c274c;
 }
 .icon-outline-Heart-Angle:before {
   content: "\eb95";
-  color: #1c274c;
 }
 .icon-outline-Heart-Broken:before {
   content: "\eb96";
-  color: #1c274c;
 }
 .icon-outline-Heart-Lock:before {
   content: "\eb97";
-  color: #1c274c;
 }
 .icon-outline-Heart-Shine:before {
   content: "\eb98";
-  color: #1c274c;
 }
 .icon-outline-Heart-Unlock:before {
   content: "\eb99";
-  color: #1c274c;
 }
 .icon-outline-Heart:before {
   content: "\eb9a";
-  color: #1c274c;
 }
 .icon-outline-Hearts:before {
   content: "\eb9b";
-  color: #1c274c;
 }
 .icon-outline-Like:before {
   content: "\eb9c";
-  color: #1c274c;
 }
 .icon-outline-Medal-Ribbon-Star:before {
   content: "\eb9d";
-  color: #1c274c;
 }
 .icon-outline-Medal-Ribbon:before {
   content: "\eb9e";
-  color: #1c274c;
 }
 .icon-outline-Medal-Ribbons-Star:before {
   content: "\eb9f";
-  color: #1c274c;
 }
 .icon-outline-Medal-Star-Circle:before {
   content: "\eba0";
-  color: #1c274c;
 }
 .icon-outline-Medal-Star-Square:before {
   content: "\eba1";
-  color: #1c274c;
 }
 .icon-outline-Medal-Star:before {
   content: "\eba2";
-  color: #1c274c;
 }
 .icon-outline-Star-Shine:before {
   content: "\eba3";
-  color: #1c274c;
 }
 .icon-outline-Star:before {
   content: "\eba4";
-  color: #1c274c;
 }
 .icon-outline-Armchair-2:before {
   content: "\eba5";
-  color: #1c274c;
 }
 .icon-outline-Armchair:before {
   content: "\eba6";
-  color: #1c274c;
 }
 .icon-outline-Bar-Chair:before {
   content: "\eba7";
-  color: #1c274c;
 }
 .icon-outline-Bath:before {
   content: "\eba8";
-  color: #1c274c;
 }
 .icon-outline-Bed:before {
   content: "\eba9";
-  color: #1c274c;
 }
 .icon-outline-Bedside-Table-2:before {
   content: "\ebaa";
-  color: #1c274c;
 }
 .icon-outline-Bedside-Table-3:before {
   content: "\ebab";
-  color: #1c274c;
 }
 .icon-outline-Bedside-Table-4:before {
   content: "\ebac";
-  color: #1c274c;
 }
 .icon-outline-Bedside-Table:before {
   content: "\ebad";
-  color: #1c274c;
 }
 .icon-outline-Chair-2:before {
   content: "\ebae";
-  color: #1c274c;
 }
 .icon-outline-Chair:before {
   content: "\ebaf";
-  color: #1c274c;
 }
 .icon-outline-Chandelier:before {
   content: "\ebb0";
-  color: #1c274c;
 }
 .icon-outline-Closet-2:before {
   content: "\ebb1";
-  color: #1c274c;
 }
 .icon-outline-Closet:before {
   content: "\ebb2";
-  color: #1c274c;
 }
 .icon-outline-Condicioner-2:before {
   content: "\ebb3";
-  color: #1c274c;
 }
 .icon-outline-Condicioner:before {
   content: "\ebb4";
-  color: #1c274c;
 }
 .icon-outline-Floor-Lamp-Minimalistic:before {
   content: "\ebb5";
-  color: #1c274c;
 }
 .icon-outline-Floor-Lamp:before {
   content: "\ebb6";
-  color: #1c274c;
 }
 .icon-outline-Fridge:before {
   content: "\ebb7";
-  color: #1c274c;
 }
 .icon-outline-Lamp:before {
   content: "\ebb8";
-  color: #1c274c;
 }
 .icon-outline-Mirror:before {
   content: "\ebb9";
-  color: #1c274c;
 }
 .icon-outline-Remote-Controller-2:before {
   content: "\ebba";
-  color: #1c274c;
 }
 .icon-outline-Remote-Controller-Minimalistic:before {
   content: "\ebbb";
-  color: #1c274c;
 }
 .icon-outline-Remote-Controller:before {
   content: "\ebbc";
-  color: #1c274c;
 }
 .icon-outline-Smart-Vacuum-Cleaner-2:before {
   content: "\ebbd";
-  color: #1c274c;
 }
 .icon-outline-Smart-Vacuum-Cleaner:before {
   content: "\ebbe";
-  color: #1c274c;
 }
 .icon-outline-Sofa-2:before {
   content: "\ebbf";
-  color: #1c274c;
 }
 .icon-outline-Sofa-3:before {
   content: "\ebc0";
-  color: #1c274c;
 }
 .icon-outline-Sofa:before {
   content: "\ebc1";
-  color: #1c274c;
 }
 .icon-outline-Speaker-Minimalistic:before {
   content: "\ebc2";
-  color: #1c274c;
 }
 .icon-outline-Speaker:before {
   content: "\ebc3";
-  color: #1c274c;
 }
 .icon-outline-Trellis:before {
   content: "\ebc4";
-  color: #1c274c;
 }
 .icon-outline-Volume-Knob:before {
   content: "\ebc5";
-  color: #1c274c;
 }
 .icon-outline-Washing-Machine-Minimalistic:before {
   content: "\ebc6";
-  color: #1c274c;
 }
 .icon-outline-Washing-Machine:before {
   content: "\ebc7";
-  color: #1c274c;
 }
 .icon-outline-Hand-Heart:before {
   content: "\ebc8";
@@ -2421,75 +2182,57 @@
 }
 .icon-outline-Bottle:before {
   content: "\ebcd";
-  color: #1c274c;
 }
 .icon-outline-Chef-Hat-Heart:before {
   content: "\ebce";
-  color: #1c274c;
 }
 .icon-outline-Chef-Hat-Minimalistic:before {
   content: "\ebcf";
-  color: #1c274c;
 }
 .icon-outline-Chef-Hat:before {
   content: "\ebd0";
-  color: #1c274c;
 }
 .icon-outline-Corkscrew:before {
   content: "\ebd1";
-  color: #1c274c;
 }
 .icon-outline-Cup-Hot:before {
   content: "\ebd2";
-  color: #1c274c;
 }
 .icon-outline-Cup-Paper:before {
   content: "\ebd3";
-  color: #1c274c;
 }
 .icon-outline-Cup:before {
   content: "\ebd4";
-  color: #1c274c;
 }
 .icon-outline-Donut-Bitten:before {
   content: "\ebd5";
-  color: #1c274c;
 }
 .icon-outline-Donut:before {
   content: "\ebd6";
-  color: #1c274c;
 }
 .icon-outline-Ladle:before {
   content: "\ebd7";
-  color: #1c274c;
 }
 .icon-outline-Oven-Mitts-Minimalistic:before {
   content: "\ebd8";
-  color: #1c274c;
 }
 .icon-outline-Oven-Mitts:before {
   content: "\ebd9";
-  color: #1c274c;
 }
 .icon-outline-Rolling-Pin:before {
   content: "\ebda";
-  color: #1c274c;
 }
 .icon-outline-Tea-Cup:before {
   content: "\ebdb";
-  color: #1c274c;
 }
 .icon-outline-Whisk:before {
   content: "\ebdc";
-  color: #1c274c;
 }
 .icon-outline-Wineglass-Triangle:before {
   content: "\ebdd";
-  color: #1c274c;
 }
 .icon-outline-Wineglass:before {
   content: "\ebde";
-  color: #1c274c;
 }
 .icon-outline-Add-Folder:before {
   content: "\ebdf";
@@ -2661,33 +2404,27 @@
 }
 .icon-outline-Battery-Charge-Minimalistic:before {
   content: "\ec17";
-  color: #1c274c;
 }
 .icon-outline-Battery-Charge:before {
   content: "\ec18";
-  color: #1c274c;
 }
 .icon-outline-Battery-Full-Minimalistic:before {
   content: "\ec19";
 }
 .icon-outline-Battery-Full:before {
   content: "\ec1a";
-  color: #1c274c;
 }
 .icon-outline-Battery-Half-Minimalistic:before {
   content: "\ec1b";
 }
 .icon-outline-Battery-Half:before {
   content: "\ec1c";
-  color: #1c274c;
 }
 .icon-outline-Battery-Low-Minimalistic:before {
   content: "\ec1d";
-  color: #1c274c;
 }
 .icon-outline-Battery-Low:before {
   content: "\ec1e";
-  color: #1c274c;
 }
 .icon-outline-Body:before {
   content: "\ec1f";
@@ -3333,119 +3070,90 @@
 }
 .icon-outline-Align-Bottom:before {
   content: "\ecf5";
-  color: #1c274c;
 }
 .icon-outline-Align-Horizonta-Spacing:before {
   content: "\ecf6";
-  color: #1c274c;
 }
 .icon-outline-Align-Horizontal-Center:before {
   content: "\ecf7";
-  color: #1c274c;
 }
 .icon-outline-Align-Left:before {
   content: "\ecf8";
-  color: #1c274c;
 }
 .icon-outline-Align-Right:before {
   content: "\ecf9";
-  color: #1c274c;
 }
 .icon-outline-Align-Top:before {
   content: "\ecfa";
-  color: #1c274c;
 }
 .icon-outline-Align-Vertical-Center:before {
   content: "\ecfb";
-  color: #1c274c;
 }
 .icon-outline-Align-Vertical-Spacing:before {
   content: "\ecfc";
-  color: #1c274c;
 }
 .icon-outline-Colour-Tuneing:before {
   content: "\ecfd";
-  color: #1c274c;
 }
 .icon-outline-Crop-Minimalistic:before {
   content: "\ecfe";
-  color: #1c274c;
 }
 .icon-outline-Crop:before {
   content: "\ecff";
-  color: #1c274c;
 }
 .icon-outline-Filters:before {
   content: "\ed00";
-  color: #1c274c;
 }
 .icon-outline-Flip-Horizontal:before {
   content: "\ed01";
-  color: #1c274c;
 }
 .icon-outline-Flip-Vertical:before {
   content: "\ed02";
-  color: #1c274c;
 }
 .icon-outline-Layers-Minimalistic:before {
   content: "\ed03";
-  color: #1c274c;
 }
 .icon-outline-Layers:before {
   content: "\ed04";
-  color: #1c274c;
 }
 .icon-outline-Mirror-Left:before {
   content: "\ed05";
-  color: #1c274c;
 }
 .icon-outline-Mirror-Right:before {
   content: "\ed06";
-  color: #1c274c;
 }
 .icon-outline-Paint-Roller:before {
   content: "\ed07";
-  color: #1c274c;
 }
 .icon-outline-Palette-Round:before {
   content: "\ed08";
-  color: #1c274c;
 }
 .icon-outline-Palette:before {
   content: "\ed09";
-  color: #1c274c;
 }
 .icon-outline-Pallete-2:before {
   content: "\ed0a";
-  color: #1c274c;
 }
 .icon-outline-Pipette:before {
   content: "\ed0b";
-  color: #1c274c;
 }
 .icon-outline-Radial-Blur:before {
   content: "\ed0c";
-  color: #1c274c;
 }
 .icon-outline-Ruler-Angular:before {
   content: "\ed0d";
-  color: #1c274c;
 }
 .icon-outline-Ruler-Cross-Pen:before {
   content: "\ed0e";
-  color: #1c274c;
 }
 .icon-outline-Ruler-Pen:before {
   content: "\ed0f";
-  color: #1c274c;
 }
 .icon-outline-Ruler:before {
   content: "\ed10";
-  color: #1c274c;
 }
 .icon-outline-Three-Squares:before {
   content: "\ed11";
-  color: #1c274c;
 }
 .icon-outline-Call-Cancel-Rounded:before {
   content: "\ed12";
@@ -3512,107 +3220,81 @@
 }
 .icon-outline-Chart-2:before {
   content: "\ed27";
-  color: #1c274c;
 }
 .icon-outline-Chart-Square:before {
   content: "\ed28";
-  color: #1c274c;
 }
 .icon-outline-Chart:before {
   content: "\ed29";
-  color: #1c274c;
 }
 .icon-outline-Chat-Square-2:before {
   content: "\ed2a";
-  color: #1c274c;
 }
 .icon-outline-Course-Down:before {
   content: "\ed2b";
-  color: #1c274c;
 }
 .icon-outline-Course-Up:before {
   content: "\ed2c";
-  color: #1c274c;
 }
 .icon-outline-Diagram-Down:before {
   content: "\ed2d";
-  color: #1c274c;
 }
 .icon-outline-Diagram-Up:before {
   content: "\ed2e";
-  color: #1c274c;
 }
 .icon-outline-Graph-Down-New:before {
   content: "\ed2f";
-  color: #1c274c;
 }
 .icon-outline-Graph-Down:before {
   content: "\ed30";
-  color: #1c274c;
 }
 .icon-outline-Graph-New-Up:before {
   content: "\ed31";
-  color: #1c274c;
 }
 .icon-outline-Graph-New:before {
   content: "\ed32";
-  color: #1c274c;
 }
 .icon-outline-Graph-Up:before {
   content: "\ed33";
-  color: #1c274c;
 }
 .icon-outline-Graph:before {
   content: "\ed34";
-  color: #1c274c;
 }
 .icon-outline-Pie-Chart-2:before {
   content: "\ed35";
-  color: #1c274c;
 }
 .icon-outline-Pie-Chart-3:before {
   content: "\ed36";
-  color: #1c274c;
 }
 .icon-outline-Pie-Chart:before {
   content: "\ed37";
-  color: #1c274c;
 }
 .icon-outline-Presentation-Graph:before {
   content: "\ed38";
-  color: #1c274c;
 }
 .icon-outline-Round-Graph:before {
   content: "\ed39";
-  color: #1c274c;
 }
 .icon-outline-Buildings-2:before {
   content: "\ed3a";
-  color: #1c274c;
 }
 .icon-outline-Buildings-3:before {
   content: "\ed3b";
-  color: #1c274c;
 }
 .icon-outline-Buildings:before {
   content: "\ed3c";
-  color: #1c274c;
 }
 .icon-outline-City:before {
   content: "\ed3d";
-  color: #1c274c;
 }
 .icon-outline-Garage:before {
   content: "\ed3e";
-  color: #1c274c;
 }
 .icon-outline-Home1:before {
   content: "\ed3f";
-  color: #1c274c;
 }
 .icon-outline-Hospital:before {
   content: "\ed40";
-  color: #1c274c;
 }
 .icon-outline-Asteroid:before {
   content: "\ed41";
@@ -3712,235 +3394,177 @@
 }
 .icon-outline-Arrow-To-Down-Left:before {
   content: "\ed61";
-  color: #1c274c;
 }
 .icon-outline-Arrow-To-Down-Right:before {
   content: "\ed62";
-  color: #1c274c;
 }
 .icon-outline-Arrow-To-Top-Left:before {
   content: "\ed63";
-  color: #1c274c;
 }
 .icon-outline-Arrow-To-Top-Right:before {
   content: "\ed64";
-  color: #1c274c;
 }
 .icon-outline-Circle-Bottom-Down:before {
   content: "\ed65";
-  color: #1c274c;
 }
 .icon-outline-Circle-Bottom-Up:before {
   content: "\ed66";
-  color: #1c274c;
 }
 .icon-outline-Circle-Top-Down:before {
   content: "\ed67";
-  color: #1c274c;
 }
 .icon-outline-Circle-Top-Up:before {
   content: "\ed68";
-  color: #1c274c;
 }
 .icon-outline-Download-Minimalistic:before {
   content: "\ed69";
-  color: #1c274c;
 }
 .icon-outline-Download-Square:before {
   content: "\ed6a";
-  color: #1c274c;
 }
 .icon-outline-Download-Twice-Square:before {
   content: "\ed6b";
-  color: #1c274c;
 }
 .icon-outline-Download:before {
   content: "\ed6c";
-  color: #1c274c;
 }
 .icon-outline-Exit:before {
   content: "\ed6d";
-  color: #1c274c;
 }
 .icon-outline-Export:before {
   content: "\ed6e";
-  color: #1c274c;
 }
 .icon-outline-Forward-2:before {
   content: "\ed6f";
-  color: #1c274c;
 }
 .icon-outline-Forward1:before {
   content: "\ed70";
-  color: #1c274c;
 }
 .icon-outline-Import:before {
   content: "\ed71";
-  color: #1c274c;
 }
 .icon-outline-Login-2:before {
   content: "\ed72";
-  color: #1c274c;
 }
 .icon-outline-Login-3:before {
   content: "\ed73";
-  color: #1c274c;
 }
 .icon-outline-Login:before {
   content: "\ed74";
-  color: #1c274c;
 }
 .icon-outline-Logout-2:before {
   content: "\ed75";
-  color: #1c274c;
 }
 .icon-outline-Logout-3:before {
   content: "\ed76";
-  color: #1c274c;
 }
 .icon-outline-Logout:before {
   content: "\ed77";
-  color: #1c274c;
 }
 .icon-outline-Maximize-Square-2:before {
   content: "\ed78";
-  color: #1c274c;
 }
 .icon-outline-Maximize-Square-3:before {
   content: "\ed79";
-  color: #1c274c;
 }
 .icon-outline-Maximize-Square-Minimalistic:before {
   content: "\ed7a";
-  color: #1c274c;
 }
 .icon-outline-Maximize-Square:before {
   content: "\ed7b";
-  color: #1c274c;
 }
 .icon-outline-Maximize:before {
   content: "\ed7c";
-  color: #1c274c;
 }
 .icon-outline-Minimize-Square-2:before {
   content: "\ed7d";
-  color: #1c274c;
 }
 .icon-outline-Minimize-Square-3:before {
   content: "\ed7e";
-  color: #1c274c;
 }
 .icon-outline-Minimize-Square-Minimalistic:before {
   content: "\ed7f";
-  color: #1c274c;
 }
 .icon-outline-Minimize-Square:before {
   content: "\ed80";
-  color: #1c274c;
 }
 .icon-outline-Minimize:before {
   content: "\ed81";
-  color: #1c274c;
 }
 .icon-outline-Recive-Square:before {
   content: "\ed82";
-  color: #1c274c;
 }
 .icon-outline-Recive-Twice-Square:before {
   content: "\ed83";
-  color: #1c274c;
 }
 .icon-outline-Reorder1:before {
   content: "\ed84";
-  color: #1c274c;
 }
 .icon-outline-Reply-2:before {
   content: "\ed85";
-  color: #1c274c;
 }
 .icon-outline-Reply:before {
   content: "\ed86";
-  color: #1c274c;
 }
 .icon-outline-Scale:before {
   content: "\ed87";
-  color: #1c274c;
 }
 .icon-outline-Screen-Share:before {
   content: "\ed88";
-  color: #1c274c;
 }
 .icon-outline-Send-Square:before {
   content: "\ed89";
-  color: #1c274c;
 }
 .icon-outline-Send-Twice-Square:before {
   content: "\ed8a";
-  color: #1c274c;
 }
 .icon-outline-Square-Bottom-Down:before {
   content: "\ed8b";
-  color: #1c274c;
 }
 .icon-outline-Square-Bottom-Up:before {
   content: "\ed8c";
-  color: #1c274c;
 }
 .icon-outline-Square-Top-Down:before {
   content: "\ed8d";
-  color: #1c274c;
 }
 .icon-outline-Square-Top-Up:before {
   content: "\ed8e";
-  color: #1c274c;
 }
 .icon-outline-Undo-Left-Round-Square:before {
   content: "\ed8f";
-  color: #1c274c;
 }
 .icon-outline-Undo-Left-Round:before {
   content: "\ed90";
-  color: #1c274c;
 }
 .icon-outline-Undo-Left-Square:before {
   content: "\ed91";
-  color: #1c274c;
 }
 .icon-outline-Undo-Left:before {
   content: "\ed92";
-  color: #1c274c;
 }
 .icon-outline-Undo-Right-Round-Square:before {
   content: "\ed93";
-  color: #1c274c;
 }
 .icon-outline-Undo-Right-Round:before {
   content: "\ed94";
-  color: #1c274c;
 }
 .icon-outline-Undo-Right-Square:before {
   content: "\ed95";
-  color: #1c274c;
 }
 .icon-outline-Undo-Right:before {
   content: "\ed96";
-  color: #1c274c;
 }
 .icon-outline-Upload-Minimalistic:before {
   content: "\ed97";
-  color: #1c274c;
 }
 .icon-outline-Upload-Square:before {
   content: "\ed98";
-  color: #1c274c;
 }
 .icon-outline-Upload-Twice-Square:before {
   content: "\ed99";
-  color: #1c274c;
 }
 .icon-outline-Upload:before {
   content: "\ed9a";
-  color: #1c274c;
 }
 .icon-outline-Alt-Arrow-Down:before {
   content: "\ed9b";
